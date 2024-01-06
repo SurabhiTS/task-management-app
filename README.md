@@ -5,6 +5,6 @@ Features included
 2. Creating a task
 3. Deleting a task
 4. Marking a task done
-5. When all the tasks for a day are done, the entire card is deleted except for *today's" task card
+5. When all the tasks for a day are done, the entire card is deleted except for *today's* task card
 6. Tasks are sorted based on dates
    
