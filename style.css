@@ -33,7 +33,7 @@ body{
     
 }
 #input-section input{
-    margin:0px 5px;
+    margin:0px auto;
     height:40px;
     outline:none;
     border:1px solid #FF9333 ;
